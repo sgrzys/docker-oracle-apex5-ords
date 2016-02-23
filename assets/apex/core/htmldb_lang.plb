@@ -1,0 +1,46 @@
+set define '^'
+set verify off
+prompt ...htmldb_lang
+CREATE OR REPLACE package body htmldb_lang wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+1b7c 58f
+GIb9YMZyd2+uX9o9at6DhxA1zHgwg81UuiATfARVgp0VIC4a5ZdzUU2351e9q/uRWet6kxMb
+eShVQTO1KgWphtVp6hOSUFouf8bGz5xqfxrnjJbu86wQHA+vciSdh7yq75YPqrWmNQk5r2uX
+Zm5diFpqiudg+6YOHiiOGmf6raLqrO6CG2xgvUM9TxQdrqgY3KjsNwQcFcWVygol0rzJ3KlO
+62puI4IXGUe+eMfu13EjguoZRw14x4bXaCOCApJ1cdUbHoeLdYLz25TxyXwIu+5/+qz9ML56
+94TsD84GKIr2GkxcPOSGF9rKd/8bWUasMRHFw/pggmsh3+yZgUuz5has8KdR2X6g05ALjA19
+Of15ogIxER7Y7NPPEp80mXBvx0m0of+4QAH6VzJ/QD+UFJlyUAr6tiBCWe1YgiCLaBO+pcnR
+7VjVIIuDE74IyUjtWHF3P0dLFiUUnlgzodP2R9h7u6hRxu1vjFdfVeB32gq+C847+koZjPel
+5ZvnMfeM4Hbqcio8JRRZVWNnQjaGnq8zdj4idItqcOR1/SCLPBM6T7Jgf7YKbchRvKrs0FUu
+o7gVtaHUJeFe+1lccBupWJ5HRHzqNwKmb8VLjt0JRCvhVCbdo6b2lLTncIzhuvt+XN0nOOHP
+O7f3rCNYkcnzrKhAGjU7QMlxoiHtPQeL9vFukc2hrp2niHnPiq/Dt5GwdX69dGLXEA70uzMt
+hVCF5tJGkLfB3r6lQpe+6EkniicL5Wbfm8XYPeorHHF4BZIGq3rgDSKXXG6IJgrCXxqJ4HUV
+hzv6iCeITb20K+sGIIwJsKMeX8x1jT4AGBPEUfvuiAZhhUVC/vEvO9W5PFfm/CfxkkWRt+jk
+0bR262YIZxr5iJw8e5PmGKC3fe3DRU9GklVqzbIOnStKWvyNOqDJavy+c0PKbpUMwtNmWZtW
+7cKhv5M/SR9y4+kKo8eYxNW3grLGYyESzan8wpAyd4v8FYkG9Z8R4wiDAwhSjz8In9tHraRT
+/FMjUCsMMCwQl49j/9k01EsiMslOIJJdX74ZXExNRQf1/k0t0jUAI21EMqdhguN4jW+mauOg
+10crHCYi6Q2ut5sUD/Z3sD3u8hDw3CCYvuSscA0zXVC+ab3CNDiGtkeiVds3fUp+NpTcCUXD
+5sSe2KZgxH5DqFuJT5gFyWPuNM1P1SwQ+7otsvtLt1k2+jczE7LLreGziZRCwwk4ogSFPt/9
+cHAhyBdj47498X/+wKzPxtDFiY/VrVE05SwkSORvz1fTC0FCeS8lNtJPwJWHcxF3JS2s97BU
+xZcLJ9ypQdYR9QqaMFmuQ+l8adGn2ud9ozgBNOkZltMpvvLg6etbDOuDn/3FB3K9GYgXlam1
+ZtxOiRxZVia4mI+PvU/rMHIKoPjSH/yitdQ=
+
+/
+show errors

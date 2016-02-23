@@ -1,0 +1,35 @@
+set define off
+set verify off
+prompt ...wwv_flow_dynamic_action_dev
+create or replace package body wwv_flow_dynamic_action_dev wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+55e 203
+gqL5kCTUa0xHzGxLooYLYtWj7Gcwg81ecq4VfI4zNJ1ReBR/dnpFcJthvOYLsT3ipO53L1BG
+ou7gyvn+n1XUaS+vMNKQ7P68u3POvC41kqbvFKHcsJGYVVPBnIE8YhnqA7FDaNeLINmBl2JB
+3/OOswhwK+hAwfERz6BxC+6pf1myCQfhgolAcYDbB8COdnLDkEbdPjWwC1DEeLKs9M8GV2xM
+WhNsTQUjOE2Cg1HWIxutfaageh2vZ46kGunIP6kRISsMlqHRL5HbbciUufgd/Ra+/fFQrUrT
+dlKIMCTxAN5lPh7rjUtBwRan1n+O+XHIjiEycF+L9Cq0EUJgzoSN03qy5ursy7vaNyD/uyXY
+keieCka7mwEFNUXQUvXFqIbe77lD1nqYpPWPi0RVBKy/8wVGuzz2Vg4AJdCM//3/40fXoW00
+mcYidoc26KDmL4JgvgW5mrmaBe1kpSySTGyzBYWTc0g/m7bclcwCJMzLgZB7TwJNevBkIqbI
+zQAR
+
+/
+show errors
+set define '^'

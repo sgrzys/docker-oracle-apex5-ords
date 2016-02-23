@@ -1,0 +1,27 @@
+/* ==========================================================================
+   High Contrast Mode
+   ========================================================================== */
+/* line 17, ../../scss/modules/HighContrast.scss */
+.u-HCM .a-Button, .u-HCM .a-IRR-views .a-IRR-button,
+.u-HCM .a-Button.a-Button--devToolbar, .u-HCM .a-TreeView-row.is-selected {
+  border: 1px solid !important;
+}
+
+/* line 20, ../../scss/modules/HighContrast.scss */
+.u-HCM .a-Button:focus, .u-HCM .a-TreeView-row.is-focused,
+.u-HCM .a-Menu-item.is-focused {
+  outline: 1px dotted !important;
+}
+
+/* line 32, ../../scss/modules/HighContrast.scss */
+.u-HCM .a-IRR-search-field {
+  height: 34px;
+}
+/* line 39, ../../scss/modules/HighContrast.scss */
+.u-HCM .a-DevToolbar-list {
+  overflow: visible;
+}
+/* line 42, ../../scss/modules/HighContrast.scss */
+.u-HCM .a-Button.a-Button--devToolbar:focus {
+  outline: 1px dotted;
+}

@@ -1,0 +1,32 @@
+set define '^' verify off
+prompt ...wwv_flow_session_context.plb
+create or replace package body wwv_flow_session_context wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+4b2 1e6
+LU7FJD7xNi3O7by8PExiyiPcdnwwgw2JDK5GfI4CTE7VRWqhdJnEti7yvmaIFhpD7tjsveBl
+UmVZppVPlijZacgEKuuUAP5hwWhkvfsb/X4dZRD2bfySTDR2m6OJk5O5ToxaTguNEMPnx80F
+lHxPqZR/Z3bm985+ah1ZZ1dvRTxpA+Fc9RZR9xfhhNXX7uy9YYSYvBT0ldYeSRXhgsKyDjjr
+6w+z0e1HxczBlfZCg2NYtCQeeMGD3glY7OI8TJaawGplANFXuLnOdxHvtp1SI56AK44SUKTp
+v/7jhUADpMuEi3XMtD2BLbMWXl9V50Vk6N4cW00qHWFB7uSXrUCt8fkCCby7jl1U6s3RvfNb
+1j1lhCptFDArweRmInQc0hNAk1+IQtuKM5Z3GZfYaUKBGDT5JV+jtwFnZayi67lcFttERxqz
+u9SuKDHiyJ0dEFIJle7GkwGjQ8O2vj1AZ5sCATr8tpmlYr0=
+
+/
+show err

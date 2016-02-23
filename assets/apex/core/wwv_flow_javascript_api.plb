@@ -1,0 +1,39 @@
+set define off
+set verify off
+prompt ...wwv_flow_javascript_api
+create or replace package body wwv_flow_javascript_api wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+1287 35b
+8p1Rf9ZgxkPXBiSkhSiul5md3ugwg80rLtDrfC9Dbg/u743Fy7hfZ+y0t0xexkp2sGNJCubm
+o0bbnlAzu7dTOrgJeM0lwuYWrZVY/m5CTsluXWfquAcUzH4MM/hJ+EMF/u1zRRKDc+Tkhu4I
+nFUAIi8WUQPq4pTpKycU3XWUerMOxF0youXVxNNlFIAfnJGy7BnWP5h+qV/2GmBcd4LdKvys
+1UIjgBV8AgkEZgyoo2/tgEXCYDF7+l8MQcCRKtXM8srDBQ3YjqI3YjtUCGgGSdYlqsGTq4AM
+jZFodNMAnIaexJHCKx1vk6I049M0hiUIeBMNLgKDtNBLQKwnQRN4xkpZvpv5hLajI1BLlsuD
+As/PtBwHIOYie35thFuEIniK8IbLhCI+il/vOqhP02GVzPxQZkppZZ06htnGQ5DJ31t5YWKx
+6HFweAA7v681TfdbSUnGKXGxgUBMBd634NSscXPsYw/Nh42E9dm4roclBz+7OkgC6/CuE2Ma
+ad3lGzi0q8OaB5e7I4vDAJZWsP5FNbJV1mrjw7+AkKsnWSAKMEWovo5xBm3e0oe/O2AgCisL
+o/L8OaSZnkIkK+h7qzlYlnFnjD4ytfVNDr1ARnSf/uKL6dGTv7GREt3GjHb2svYvAU+LOOkV
+6w9qJpdlpZ1gOx1g6tseovDriH38gtp06u1xHGqSdqTYDyNhrbmC9qjZVjUA6lG32pxR8b05
+tcF7X8X71BFBiTkdnYNrnYsmA6IBaFT+YyTM4pzYHlS0DhHt1N1y/MekfQHaVMTkhANF2yAg
+tKXdE82S1Z9VRzuza3oFgdCunLVDdddFvpOBaqnmma3QD3M5C+xgCg==
+
+/
+show errors
+set define '^'

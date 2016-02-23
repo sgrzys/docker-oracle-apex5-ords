@@ -1,0 +1,33 @@
+set define '^' verify off
+prompt ...wwv_flow_t_dbms_output_writer.plb
+create or replace type body wwv_flow_t_dbms_output_writer wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+e
+45f 23f
+9waJP+zSZr6UzJdff82UpCwhhmowg41eTK7WfI6BWA9SLIBukbzyIYi4MeyJp9ILRrAbYC5Z
+IYLHx6qab9R9BMcIvInAuwDBQesrPWzmFQOrM/gsTjMtGRM7QkL55N8eVTP2xCr41/gzMh3H
+iF9gl1jD5rAYmYUqDJTudOUnAcCX1YxZp44luDvyO1ls4+b7t6Z+Whqt0jUEtMVwekMBEETK
+fqY2xWJUbYKcn9UqXPv3NayZFUp28yqebSVpkZkNflMcHDhvKJk0k3H764nUHK52ytn5QdVh
+n6WUnjVlFW9pcPe0OAyvXkegZ4UmpwwPc7UhugHit6smi+Y1oWOoWe4VG800/giousDesTWn
+U4TsMCewpLqiTnwzVu86dfaufB0N22Hb6Q0Ujih+0aGtlh2a5pPZhbfzrT6JfG5akHQXKSEu
+ut2Yat90hraF3L4969Oan+X4GCtzTeClFCw+AJ6/vNxgtcYjs1Ii8L7ABuNt+SUhqcMj5zPj
+//1gcZsXy67dpSMeASBqNwnxBR4j23uxPJ33mbtdXfD140h54r5ExJoI15ZyzShL
+
+/
+show err

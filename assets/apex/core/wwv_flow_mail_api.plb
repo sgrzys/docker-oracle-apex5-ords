@@ -1,0 +1,38 @@
+set define off
+set verify off
+prompt ...wwv_flow_mail_api
+create or replace package body wwv_flow_mail_api wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+ea2 2f2
+i9k8+E03A3EZlDlWEg1QFnoDRhcwg82cDNATfI4CmIvqMK33UZP1baP6BB1Ic+Us9MLCyYIl
+WoIn6tealt9wWcq9zConKhjqvm7WxxDOfMqoksv2dJ7MHN0IzgUAnfl6RcSwnOr+0h5s1nuY
+exrT55wrOA5/lq+EOYOokPMOLEbWpMNNN/xOYR/VbLSTf9LAofXwOCGUNfTVESb7aAl7Vw1i
+vNfok/VmoFD8UQPjPPbcAmwARnT/ra8b73vVuC4wVxedmr4YGO0LyFDGFNnrep3PskPf88Z6
+1n3Zwxy2ssKWrkPR6xYHZYFf3jnQll5CX3yF5y6L0Cd4tcOkt578aUibR4CPx4Wa/WWi6S3n
+dR+sKcu0W1tWX5fAkeOP/pCKK1A0XDgLlCDQS+EKPiPt9ffdKsrihlKkp3hQvsslKtji5jPf
+wJqUgyiYghk3cxfd3BmIOJN7EXSismpoos8QGUqJc0O54lC4ELYSCpS9a5RrdYRAnK/JRjgX
+y9Our1POiXF+IDzgVH4PsK5BXUdwiB76AzKKRQuMZF6uJRL+Fy25A5Df7MbETlPad7RXFQ03
+djgXlKQvLMBUr7V+GAISNQuRlH9b6tU4Y3KwzZy7fYRuJ7h6POJza+hbht66S/UVR2GIPKqD
+Bb42VPgNjLXJc4Y2tQX8Cxc65OtZo1VTLG+6diB/11/18FAbS7+BpNuYY2lADzFUlmhZC7ZM
+sd6QAu+2ndbxXU/5puf4wxo=
+
+/
+show errors
+set define '^'

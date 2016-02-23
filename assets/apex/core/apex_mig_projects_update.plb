@@ -1,0 +1,43 @@
+set define '^'
+set verify off
+prompt ...apex_mig_projects_update
+create or replace package body apex_mig_projects_update wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+d18 498
+3mj9qutKZLtmEiqeLScIXHrYvCUwgz2nLseDfC9AEjNktP1QoQTxC4jL5m+P1KcAwnT6oYbT
+sFDTcHxY0sHqwmyq7shdyJ8GiMnSCOKf7fjYWamlsuzTBPgzpNv4XdAwcbWO+Gq56sJ66Abe
+qiwstmdrPZs2R8bbSgT7eu/OYFnPG28imL0dRr1U3BHw+ndrb6aFYt3qj2l95SYj5gbTR0Om
++PNDVWQA50N/HNN1wIz3QEf+cC11bfQeljYz7aaz2vfVauZhdfOI6bye7+PmFQ6wn0yaKKCX
+WIXnkmMoJv2JP85faXCFvfRnNY97BFLGsKx8G++7h4coOdYKbcsPO15anApdfzmtg7lKL7Ap
+SL6noUUHwYFSRAhvUD+dk5aGhiPERJsXqloljm+Yarv1LJa3vNJj3PScMbytAQMxAEn+c9wg
+TQtmd6eoF4Iqw5ZloHdNbLGEk1+hoi2eiOhGmUrU0fNKOwOkfUQYeuGNgKcdi+PuiOCxk0Wp
+8xx/niGb1EYmnuXpxHquu914WDTuvptvPSroKxLpF6Djp9zPCity8lCMg9qJAYRlqMHZh72H
+OWK9fOtgJzt29xg0XYZ5uKLLtPqE5KCtrEgTBzDt93FxFVKNdvE0PFxwSgjQLuAnSJ5IjQEW
+1voMD2LNodctu2AcEA+zlqAJBd8aINSM9XM/IridoKeMThoEJqJEpQJcEDucyOGHB+Wl6rhc
+WLGvFXOemTSq5sAbZR5k4Jf4ZDejG2ZJKq7GDG6n/NBbMr4FegBIcvGjRl5Ro5MnqpcoWo60
+FcforPe+RYM0S6lUJ7wMCWVTJxGLGoiszVJMpaxZkBDFeveUePbXzfRW0u9AoQwFdeL7E1lp
+XcDewUWyCqVKwPUFyT2OwNuMSy6062J9ybtcKZ04vKNUq9a5PQ6wj/xXjpj3LnvogI28c2pm
+eOUk9IeCS4pTrcCkmLf7EUuW5NUHXTxXfqYU1dBXs3O6hN2X4r3Lgc/w7IhW4jfJw/BXDJDz
+daY7BsBQMF+eCVZVNJSegCoW8MoUV+DLnbZei4A3s1ytZZdfd/dgK4tnbIY2te4Sq0D33Rfk
+jKMbJO0+c+Ri6+SuTjESYF6lckXoQuYI+9hH2f/FFqtcyJIoVWMDGr9pZ0gDYs1ljkInBw/5
+4ZKNPjQ=
+
+/
+show errors

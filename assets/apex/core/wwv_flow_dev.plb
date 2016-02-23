@@ -1,0 +1,42 @@
+set define '^' verify off
+prompt ...wwv_flow_dev
+create or replace package body wwv_flow_dev wrapped 
+a000000
+1
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+b
+e3b 4ac
+YF5hziFTPbEAKenbCcJrOIkVAjowgzvq+kgFfC/NPZIYKajIX6tAtiGcBNyoXqAuRujn8sK3
+tpZ53DUFDLdtJLyEOxpvlqHnBMIqalh40NCEo0BdqHFeVNSztjTt7fzBnCQgksFk6ue2ZCDY
+ZTUJb5lU68MKWX1ZUud63agyFmwXFCGf12Zw4aJhTAlEhmg1syFe4Z9rZhNpVTBWCKf110Z5
+0k+q5EzOB4TatO6PmlXu+HM/sOp6Ga6x7PQUskRrx9AYhdSCgG4JlUZgWFHIDq9HUNlfCOPF
+8AMJJ/ELK+EzyHqvTT5M712YRKzBBJmaZLxyyYJiZE5XKvmPizOfcbSc6TnYiICx/230QxZX
+PrIlS5oXS+ErORF9wPOoPEyP2rvPR352zSi6DYstNqJuizLm43ZFPGSZpRciGv2j2C9nLj8b
+711pt8h+TRkD9Yz+GGOOf3dZzrZJozVGkxZh/GYD59ujjo16FCG0rQjUtrWeRI+1+f6bwCrD
+h7bGd8n8wo8sO5qb+IkJ2e4ri85cSIlJpJGk/JbGRvtKyliTMSmYxzAzuSboJyZ9GMUYuoJY
+7Hkx5MsagQtSu1a780ssX3Gco+VkbNu3RTdc2KlxEz9vFIle8eyT9156eyYwuu8uo9RzQIs7
+45FaBreHCle3GxNcugHb/zwI9ultlDN/VCKo43+lV6ccNL9E+oGO1rR3xFNypHbaEJHecxUv
+3i92VRkyBasq1y+EsC3Re7oSsJzXBvdpWE8qhUGpBOqibIFFX5u8VN8RWc8U9usRB/GrhjFY
+kLixSD93Ca7+5WqYYtjq9j23BW3KozbX/SQMEzNmsn0hHyYNXLeJ8oAKAmlrl+1LuHW24Sz+
+fE4iD22U6RCsemZXCkKyAPTruf8F2ZBzaGyX7gprCvfqA4cLhExyaOCJVv3hRTZvfb3P1QKf
+OUlphchwd5P4NjfHvCgW/OPl/wkrZEU5KfzMg6EN+8+nBnt0/sJ6uEG0T164qxhjb+6nFQYc
+7G1uvnLAGxzs1iv8TIUDaDvJe1GYJjL4snv+uPXRnwgE1JyEoNGnQGWqZWh4lueNmsxJVbya
+YL/Ca6wkfwCg3uhges/OP3gnoTSn0qf03U2evR4xkpDwh+gRGoN9UsNjOnUElr3HuZ7we+bi
+jfa80rXqZbWwXz0raOTZqjblZx0=
+
+/
+show errors
