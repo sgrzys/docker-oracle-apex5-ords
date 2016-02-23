@@ -46,6 +46,6 @@ rm -r /assets/
 sqlplus /nolog
 CONNECT sys/oracle@localhost as sysdba
 @apexins.sql SYSAUX SYSAUX TEMP /i/
-
+@apex_epg_config.sql /assets
 
 exit $?
