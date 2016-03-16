@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# avoid dpkg frontend dialog / frontend warnings 
+# avoid dpkg frontend dialog / frontend warnings
 export DEBIAN_FRONTEND=noninteractive
 
 cat /assets/oracle-xe_11.2.0-1.0_amd64.deba* > /assets/oracle-xe_11.2.0-1.0_amd64.deb
@@ -38,6 +38,10 @@ echo 'export ORACLE_SID=XE' >> /etc/bash.bashrc &&
 # Install startup script for container
 mv /assets/startup.sh /usr/sbin/startup.sh &&
 chmod +x /usr/sbin/startup.sh &&
+
+# Install startup script for tomcat7
+mv /assets/startup_tomcat.sh /usr/sbin/startup_tomcat.sh &&
+chmod +x /usr/sbin/startup_tomcat.sh &&
 
 # Remove installation files
 rm -r /assets/
